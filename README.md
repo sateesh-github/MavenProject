@@ -18,3 +18,5 @@ How you run this code is up to you, but usually you would start by using an IDE 
 The Maven dependencies may lag behind the official releases a bit.
 
 If you notice some problems with this setup, please open an issue.
+
+sateeshKumar added few more detail to automate build as when code is going to check-in the code to git
